@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @devmahbe
-- 👀 I’m interested in Web Development , App Development , CS Research , AI & ML
-- 🌱 I’m currently learning Node.js , React.js ,Express.js,Nest.js, django 
+- 👋 Hi, I’m @devmahbe ||I am a dedicated and consistent Computer Science Engineering student with a proven track record of excellence in academic performance and project execution.
+- 👀 I’m interested in Web Development || App Development || CS Research || AI & ML
+- 🌱 I’m currently learning Node.js || React.js || Express.js ||Nest.js|| django 
 - 💞️ I’m looking to collaborate on Web designing , Web development projects or in any Research in CS feild
 
 
