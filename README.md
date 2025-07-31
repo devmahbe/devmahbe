@@ -1,4 +1,4 @@
-![Web Developer || Programmer || Researcher](https://media.licdn.com/dms/image/v2/D5616AQF6XCLNQziulg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731171199080?e=1736985600&v=beta&t=x8kl5fzgNx4HJU3wJciWmPO4nQa8dclFZrb0hxM_FWQ)
+
 ### Hi there 👋, I am Mahbe
 #### Web Developer || Programmer || Researcher
 
