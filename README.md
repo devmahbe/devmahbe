@@ -6,7 +6,7 @@
 
 <h3 align="center">✨ A Passionate Programmer & Researcher ✨</h3>
 
----
+
 
 <div align="center">
 
@@ -17,7 +17,6 @@
 
 </div>
 
----
 
 <h2 align="center">📫 Connect with Me</h2>
 <br/>
@@ -33,7 +32,7 @@
   </a>
 </div>
 
----
+
 
 <h2 align="center">⚒️ Tech Stack ⚒️</h2>
 <br/>
@@ -43,7 +42,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,git,github,vscode,figma,docker,aws" />
 </div>
 
----
+
 
 <h2 align="center">🏆 GitHub Achievements</h2>
 <br/>
@@ -51,14 +50,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=devmahbe&theme=radical&no-frame=true&no-bg=false&margin-w=5&row=1" />
 </div>
 
----
+
 
 <h2 align="center">🐍 Contribution Snake</h2>
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/devmahbe/devmahbe/output/github-contribution-grid-snake.svg" />
 </div>
 
----
+
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br/>
@@ -69,27 +68,19 @@
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmahbe&hide=HTML&langs_count=9&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
----
+
 
 <h2 align="center">🎧 Now Playing on Spotify</h2>
 <div align="center">
   <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=61dafb" alt="Spotify Now Playing" />
 </div>
 
----
+
 
 <h2 align="center">🪄 Random Dev Quote</h2>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
----
 
-<h2 align="center">☕ Support My Work</h2>
-<div align="center">
-  <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'>
-    <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='All praise goes to Almighty Allah' />
-  </a>
-</div>
 
----
