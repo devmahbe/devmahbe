@@ -10,7 +10,7 @@
 
 <div align="center">
 
- 🔭 I’m currently **an undergraduate CSE student and researcher**  
+ 🔭 I’m currently **an undergraduate Teaching Assistant at UIU and researcher**  
  🌱 Exploring **Docker, Supabase, AWS, Neural Networks & Deep Learning**  
  💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/devmahbe/devmahbe/issues)**  
  ⚡ Fun fact: **Game of Thrones Night's Watch cloaks were made from Ikea rugs** 🐺❄️  
