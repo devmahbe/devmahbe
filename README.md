@@ -10,8 +10,8 @@
 
 <div align="center">
 
- 🔭 I’m currently **an undergraduate Teaching Assistant at UIU and researcher**  
- 🌱 Exploring **Docker, Supabase, AWS, Neural Networks & Deep Learning**  
+ 🔭 I’m currently **an undergraduate Teaching Assistant at UIU and a Researcher**  
+ 🌱 Exploring ** AWS,Bioinformatics, Cyber-Forensics Neural Networks & Deep Learning**  
  💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/devmahbe/devmahbe/issues)**  
  ⚡ Fun fact: **Game of Thrones Night's Watch cloaks were made from Ikea rugs** 🐺❄️  
 
